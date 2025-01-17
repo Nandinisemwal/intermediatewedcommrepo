@@ -2,3 +2,10 @@ body {
     background-color: rgb(166, 62, 103);
     color: rgb(228, 243, 247);
 }
+
+h1 {
+    border-radius: 20cap;
+    background-color: rgb(93, 129, 201);
+    text-align: center;
+    
+}
